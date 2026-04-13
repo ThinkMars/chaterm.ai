@@ -26,7 +26,7 @@ Chaterm mobile supports signing in now or browsing first and finishing sign-in l
 
 - **Email** -- receive a verification code to sign in
 - **Username and password** -- use your existing credentials
-- **Third-party** -- sign in with Google, or Apple, depending on availability in the app
+- **Third-party** -- sign in with **Email**、**Password**、 **Google** or **Apple**, depending on availability in the app
 
 <div style="text-align: center;">
   <img src="../../image/mobile_login.jpg" alt="AI Dialog mobile page" width="320" />

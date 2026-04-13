@@ -12,17 +12,15 @@ Direct Connections are used for servers you add yourself.
 
 ### Add a New Asset
 
-1. Tap the floating `+` button in the lower-right corner
-2. Choose `New`
-3. Fill in the server information:
-   - Label
-   - IP address or domain
-   - Username
-   - Port
-4. Choose an authentication method:
-   - Password
-   - Private key
-5. Tap `Save`
+Tap `+` in the lower-right corner → **New**, fill in the server details, and save.
+
+| Field | Description |
+|-------|-------------|
+| Label | A recognizable name, e.g. `prod-web-01` |
+| IP / Domain | Server address |
+| Port | Default `22` |
+| Username | Login user, e.g. `root`, `ubuntu` |
+| Authentication | **Password**: enter directly; **Key**: import in [Key Management](#key-management) first |
 
 ### Manage Assets
 
@@ -30,6 +28,10 @@ Direct Connections are used for servers you add yourself.
 - Edit: long-press a card and choose `Edit`
 - Favorite: long-press a card and choose `Favorite` to pin it near the top
 - Delete: long-press a card and choose `Delete`
+
+### Recent Connection Sorting
+
+The host list is automatically sorted by last connection time, so the most recently used hosts appear at the top for quick access.
 
 ### Search and Filter
 
