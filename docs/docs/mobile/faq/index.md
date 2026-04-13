@@ -23,6 +23,21 @@ You can contact Chaterm through:
 - In-app feedback: `Profile → Usage & Feedback → Issue Feedback`
 - Email support: `support@chaterm.ai`
 
+## Which AI Models Are Supported? How Do I Switch?
+
+After signing in, go to [Profile > AI Settings > Model Selection](/docs/mobile/profile/#model-selection) to view and switch models. Supported models include flagship models from OpenAI, Gemini, and other major providers. Available models vary by subscription tier — check the app for the current list.
+
+## Data Sync Not Working?
+
+- Confirm you are signed in (sync is unavailable without an account)
+- Check whether your network connection is working
+- Go to [Profile > Data Management](/docs/mobile/profile/#data-management) and confirm the sync toggle is on
+- If the issue persists, try signing out and back in, then sync again
+
+## What Can I Use Without Signing In?
+
+Without signing in you can add and manage local assets and open SSH connections. AI Chat and cloud data sync require a signed-in account.
+
 ## Troubleshooting Checklist
 
 If the problem is related to connection or sign-in, confirm these first:
